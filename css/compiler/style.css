@@ -1,0 +1,220 @@
+header {
+    font-family: 'Montserrat',Arial;
+}
+h1, h2, h3, h4, h5 {
+    font-family: 'Montserrat', sans-serif;
+}
+.menuFullScreen .left .moreItems .moreItem > .text > .scroll > .middle h3 {
+    font-size: 12px;
+}
+html, body {
+    font-family: 'Ubuntu', sans-serif;
+}
+.menuButton, .button {
+    background-image: linear-gradient(to top, #b18857 0%, #98511c 80%)
+}
+.menuButton:hover,.button:hover {
+    background: #b18857;
+}
+#content > .contentHeader.contentHeaderHome .middle h2 {
+    font-size: 28px;
+}
+#content > .contentHeader.contentHeaderHome .services .in > div {
+    background-image: linear-gradient(to top, #35343200 0%, #bc9f818f 100%);
+    padding: 8px 2% 8px 67px;
+    margin: 0 5px;
+    width: 24%;
+    box-shadow: 0 4px 3px 0 #00000021;
+    border-radius: 5px;
+    min-height: 89px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+#content > .contentHeader.contentHeaderHome .services {
+    max-width: 1180px;
+    padding: 50px 0;
+    margin: 0 auto;
+    overflow: hidden;
+    left:  0;
+    right:  0;
+}
+#content > .contentHeader.contentHeaderHome .services .in > div:before {
+    top: 12px;
+    left: 6%;
+}
+#content > .contentHeader.contentHeaderHome .services .in > div h4 {
+    font-size: 15px;
+    font-weight: 800;
+    margin-bottom: 8px;
+    margin-top: 6px;
+}
+#content > .contentHeader.contentHeaderHome .services .in {
+    margin: 0;
+    max-width:  100%;
+    width:  100%;
+}
+#content > .contentInner.contentInnerSpirit .pages .page .text h2 {
+    font-size: 40px;
+}
+#content > .contentInner.contentInnerSpirit .pages .page .text h3 {
+    font-style: normal;
+    letter-spacing: 0;
+    font-size: 20px;
+}
+.spiritPagemap .items div {
+    font-family: 'Ubuntu';
+}
+#content > .contentInner.contentInnerSpirit .pageBottom {
+    padding-bottom: 450px;
+}
+#content > .contentInner.contentInnerSpirit .pageBottom h2 {
+    font-size: 40px;
+    padding-top: 30px;
+}
+#content > .contentInner.contentInnerSpirit .pageBottom .experiences .item h3, #content > .contentInner.contentInnerSpirit .pageBottom .services .item h3 {
+    text-shadow: 0 0px 1px #af885a;
+    font-size:  18px;
+    font-style: normal;
+    color: #fff;
+}
+.talkToAdventurer .middle .links > div a {
+    font-family: Ubuntu;
+}
+.button {
+    font-family: 'Ubuntu',Arial;
+}
+#content > .contentInner.contentInnerSpirit .pages .page.faq .image {
+    background: url("../../static/img/faq.jpg") no-repeat center center transparent;
+}
+#content > .contentInner.contentInnerSpirit .pages.tinfo .page .text {
+    line-height: 350px;
+}
+
+#content > .contentInner.contentInnerSpirit .pages.tinfo .page .num {
+    display:  none;
+}
+
+#content > .contentInner.contentInnerSpirit .pages.tinfo .page .text h2:after {
+    content: "";
+    content: '';
+    background: url(../../static/img/sprite.png) no-repeat top left transparent;
+    display: inline-block;
+    zoom: 1;
+    background-position: 0 -92px;
+    width: 81px;
+    height: 7px;
+    text-indent: -6000px;
+    text-align: left;
+    display: block;
+}
+#content > .contentInner.contentInnerSpirit .pages.tinfo .page .text h2 {
+    padding-bottom: 15px;
+}
+#content > .contentInner.contentInnerSpirit .pages.tinfo .page .text a {
+    margin-top: 15px;
+}
+#content > .contentInner.contentInnerSpirit .pages .page.odd .image {
+    left:  auto;
+    right: 0;
+}
+#content > .contentInner.contentInnerSpirit .pages.tinfo .page.odd .text {
+    margin-left: 0;
+    margin-right: 50%;
+}
+#content > .contentInner.contentInnerSpirit .pages.tinfo .page.ilinks#page02 .image {
+    background: url("../../static/img/web-links.jpg") no-repeat center center transparent;
+}
+#content > .contentInner.contentInnerSpirit .pages.tinfo .page.insurance#page03 .image {
+    background: url("../../static/img/insurance.jpg") no-repeat center center transparent;
+}
+#content > .contentInner.contentInnerSpirit .pages.tinfo .page.visa#page04 .image {
+    background: url("../../static/img/visa.jpg") no-repeat center center transparent;
+}
+#content > .contentInner.contentInnerSpirit .pages.tinfo .page.wtb#page05 .image {
+    background: url("../../static/img/what-to-bring.jpg") no-repeat center center transparent;
+}
+#content > .contentInner.contentInnerSpirit .pages.tinfo .page.tnc#page06 .image {
+    background: url("../../static/img/terms.jpg") no-repeat center center transparent;
+}
+#content .contentHeader.contentHeaderSpirit .bg.tinfo{
+    background: url(../../static/img/travel-info-bg.jpg) no-repeat center center transparent;
+}
+.contentArea .navWrap {width: 18%;display: table-cell;vertical-align:  top;padding: 4% 0;background: #eeeeee1c;border-right: 1px solid #916b3f;}
+.contentArea .contentWrap {
+    display: table-cell;
+    padding: 4%;
+}
+.contentArea {padding: 0 0;}
+.contentArea .navWrap ul li {
+    list-style: none;
+}
+.contentArea .navWrap ul li a {
+    display:  block;
+    padding: 10px 20px;
+    font-size:  15px;
+    position:  relative;
+    color: rgba(0,0,0,0.79);
+}
+.pages.tinfo-inner {
+    background: url("../../static/img/home_experience_bg.jpg") no-repeat center center transparent;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.contentArea .contentWrap h1 {
+    margin-bottom: 2%;
+}
+.contentArea .contentWrap h1:after {
+    content: "";
+    content: '';
+    background: url(../../static/img/sprite.png) no-repeat top left transparent;
+    display: inline-block;
+    zoom: 1;
+    background-position: 0 -92px;
+    width: 81px;
+    height: 7px;
+    text-indent: -6000px;
+    text-align: left;
+    display: block;
+}
+.contentArea .contentWrap .content p {
+    margin-bottom: 18px;
+    line-height: 26px;
+}
+.contentArea .navWrap ul li:hover a, .contentArea .navWrap ul li a.active {
+    color: #916b3f;
+    text-decoration:  underline;
+}
+.contentWrap .accordian h3 {
+    display: block;
+    color: #916b3f;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    position:  relative;
+    border-radius: 25px;
+    font-size:  15px;
+    box-shadow: 0 3px 3px 0px #0000001a;
+    box-sizing: border-box;
+    cursor: pointer;
+    border: 1px solid #916b3f52;
+}
+
+.contentWrap .accordian .answer {
+    display: none;
+    padding: 0 15px 0 15px;
+}
+
+.contentWrap .accordian .answer.active {
+    display: block;
+}
+
+.contentWrap .accordian h3:after {
+    content:  "";
+    border-right: 5px solid transparent;
+    border-top: 5px solid #916b4dad;
+    border-left: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    right: 2%;
+    top: 44%;
+    position:  absolute;
+}
